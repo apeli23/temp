@@ -7,8 +7,8 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://apeli.tech',
   siteRepo: 'https://github.com/apeli23/temp',
-  siteLogo: '/static/images/flogo.png',
-  image: '/static/images/flogo.png',
+  siteLogo: '/static/images/logo.png',
+  image: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'apelibrian@gmail.com',
   github: 'https://github.com/apeli23',
